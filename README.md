@@ -1,4 +1,4 @@
-<h2 align="center">I learn and code with</h2>
+<h2 align="center">Languages and Tools</h2>
 
 ###
 
