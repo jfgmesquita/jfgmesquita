@@ -36,6 +36,10 @@
 
 ###
 
+<h2 align="center"></h2>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jfgmesquita/jfgmesquita/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jfgmesquita/jfgmesquita/output/github-contribution-grid-snake.svg">
