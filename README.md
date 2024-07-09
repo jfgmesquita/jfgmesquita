@@ -36,6 +36,10 @@
 
 ###
 
+<h2 align="center">My contributions in the last year</h2>
+
+###
+
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jfgmesquita/jfgmesquita/output/github-contribution-grid-snake.svg" />
 
 ###
