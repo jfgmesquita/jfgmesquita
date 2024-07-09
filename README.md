@@ -36,12 +36,12 @@
 
 ###
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jfgmesquita/jfgmesquita/output/github-contribution-grid-snake.svg" />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jfgmesquita&date_format=j%20M%5B%20Y%5D" />
 </div>
+
+###
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jfgmesquita/jfgmesquita/output/github-contribution-grid-snake.svg" />
 
 ###
