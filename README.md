@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="center">My contributions in the last year</h2>
+<h2 align="center">My contributions grid of the last year 🐍</h2>
 
 ###
 
